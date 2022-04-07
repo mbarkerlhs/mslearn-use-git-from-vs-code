@@ -12,7 +12,7 @@ namespace SampleWeb.Pages
 
         public void OnGet()
         {
-            Message = "Your application description page.";
+            Message = "All about my application.";
         }
     }
 }
